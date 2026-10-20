@@ -5,7 +5,7 @@ const redes = [
   {
     nombre: "Instagram",
     descripcion: "Inspírate con nuestras flores",
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/laobra.pe?utm_source=ig_web_button_share_sheet&mdxt=ZDNlZDc0MzIxNw==",
     icono: (
       <svg viewBox="0 0 24 24" fill="none" className="h-7 w-7" stroke="currentColor" strokeWidth="1.7">
         <rect x="3" y="3" width="18" height="18" rx="5" />
@@ -17,7 +17,7 @@ const redes = [
   {
     nombre: "TikTok",
     descripcion: "Descubre el mundo de La Obra",
-    href: "https://www.tiktok.com/",
+    href: "https://www.tiktok.com/@laobra.pe?is_from_webapp=1&sender_device=pc",
     icono: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="h-7 w-7">
         <path d="M19.6 7.2a6.7 6.7 0 0 1-4.1-1.4v8.1a6.1 6.1 0 1 1-5.3-6V12a2.5 2.5 0 1 0 1.8 2.4V2h3.5a6.7 6.7 0 0 0 4.1 4.2v1Z" />
